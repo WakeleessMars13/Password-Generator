@@ -42,6 +42,10 @@ header {
   padding: 30px 40px;
 }
 
+.card-header {
+  text-align: center;
+}
+
 .card-header::after {
   content: " ";
   display: block;
@@ -50,8 +54,9 @@ header {
   height: 2px;
 }
 
-.card-body {
+.card-b {
   min-height: 100px;
+  font-family: sans-serif;
 }
 
 .card-footer {
@@ -70,6 +75,10 @@ header {
   content: " ";
   display: block;
   clear: both;
+}
+
+input[type=checkbox] {
+	margin-right: 0;
 }
 
 .btn {
