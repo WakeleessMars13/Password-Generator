@@ -9,6 +9,7 @@ A website that allows users to generate a specified variety of password options.
 * JavaScript
 
 ## Website
+https://wakeleessmars13.github.io/Password-Generator/
 
 ## Contribution
 Made by Melanie Wong
